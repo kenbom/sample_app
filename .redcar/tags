@@ -1,10 +1,13 @@
-1304759520
+1304844868
 Application	/home/tom/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/tom/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/tom/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	/home/tom/rails_projects/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	/home/tom/rails_projects/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	/home/tom/rails_projects/sample_app/config/application.rb	module SampleApp
 Str	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function Type(o)
+about	/home/tom/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 abs	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function abs()
 absolutize	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function absolutize(element)
 addMethods	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function addMethods(source)
@@ -27,6 +30,7 @@ clone	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	functi
 collect	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function collect(iterator, context)
 compact	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function compact()
 concat	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function concat()
+contact	/home/tom/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
 copy	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
 create	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function create()
 cssNameFor	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function cssNameFor(key)
@@ -75,6 +79,7 @@ grep	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	functio
 gsub	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/tom/rails_projects/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/tom/rails_projects/sample_app/public/javascripts/rails.js	function handleRemote(element)
+home	/home/tom/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function include(object)
 include	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function include(pattern)
