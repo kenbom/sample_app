@@ -1,4 +1,4 @@
-1304974648
+1305144966
 Application	/home/tom/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/tom/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/tom/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -166,6 +166,7 @@ succ	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	functio
 succ	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function succ()
 times	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function times(count)
 times	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function times(iterator, context)
+title	/home/tom/rails_projects/sample_app/app/helpers/application_helper.rb	  def title
 toArray	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function toArray()
 toArray	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function toArray()
 toCSSPixels	/home/tom/rails_projects/sample_app/public/javascripts/prototype.js	function toCSSPixels(number)
